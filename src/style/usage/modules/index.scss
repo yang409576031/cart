@@ -13,10 +13,21 @@
     position: relative;
     @include flexbox();
     a:first-child{
-         @include flex();
+       line-height:.28rem;
+       text-align: center;
+       display: block;
+       width:100%;
+       color:#a1a1a1;
+       font-size:.14rem;
+        text-decoration: none;
     }
-    a:first-chlid{
-        
+    a:last-child{
+        position: absolute;
+        right: .1rem;
+        top: .07rem;
+        width: .26rem;
+        height: .25rem;
+        background:red;
     }
   }
   nav {
