@@ -1,0 +1,178 @@
+{
+			"createtime": 1471688015760,
+			"title": null,
+			"icon_url": null,
+			"type": 100,
+			"more": null,
+			"list": [{
+				"goods_id": "03147151380975600888",
+				"goods_name": "9成新 手提包 缪缪 miumiu手提包",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471419568847_1471419568847_1.jpg",
+				"market_price": 10800.0,
+				"shop_price": 1650.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 1080000,
+				"shop_price_cent": 165000,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 30,
+					"like_num": 0
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 3,
+				"goods_type": 0,
+				"support_type": 0
+			}, {
+				"goods_id": "03147151708030300002",
+				"goods_name": "8成新 路易威登卡包/钥匙包",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471420702336_1471420702336_1.jpg",
+				"market_price": 0.0,
+				"shop_price": 699.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 0,
+				"shop_price_cent": 69900,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 23,
+					"like_num": 0
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 4,
+				"goods_type": 0,
+				"support_type": 0
+			},{
+				"goods_id": "03147151730716700009",
+				"goods_name": "YSL圣罗兰玫粉色牛皮Y扣女士长款手包",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471421355635_1471421355635_6.jpg",
+				"market_price": 0.0,
+				"shop_price": 2800.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 0,
+				"shop_price_cent": 280000,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 9,
+					"like_num": 0
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 2,
+				"goods_type": 0,
+				"support_type": 0
+			}, {
+				"goods_id": "03147151737760700012",
+				"goods_name": "Valentino华伦天奴金链迷彩LOCK BAGmini女士单肩包",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/11471421483172_1471421483172_2.jpg",
+				"market_price": 0.0,
+				"shop_price": 6800.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 0,
+				"shop_price_cent": 680000,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 19,
+					"like_num": 0
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 2,
+				"goods_type": 0,
+				"support_type": 0
+			},{
+				"goods_id": "03147151768847100022",
+				"goods_name": "95成新 手提包 路易威登 LV 手袋",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471422345692_1471422345692_1.jpg",
+				"market_price": 0.0,
+				"shop_price": 5999.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 0,
+				"shop_price_cent": 599900,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 26,
+					"like_num": 0
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 2,
+				"goods_type": 0,
+				"support_type": 0
+			}, {
+				"goods_id": "03147156960689100048",
+				"goods_name": "95成新 单肩包 菲拉格慕链条包",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471433225295_1471433225295_1.jpg",
+				"market_price": 0.0,
+				"shop_price": 3300.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 0,
+				"shop_price_cent": 330000,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 23,
+					"like_num": 1
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 2,
+				"goods_type": 0,
+				"support_type": 0
+			},{
+				"goods_id": "03147157042948500065",
+				"goods_name": "8成新 蒂芙尼戒指",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471438780171_1471438780171_1.jpg",
+				"market_price": 0.0,
+				"shop_price": 599.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 0,
+				"shop_price_cent": 59900,
+				"goods_stat": {
+					"share_num": 1,
+					"visit_num": 77,
+					"like_num": 1
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 4,
+				"goods_type": 0,
+				"support_type": 0
+			}, {
+				"goods_id": "03147157171687100080",
+				"goods_name": "LV 路易威登小号手拿包",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471443565767_1471443565767_1.jpg",
+				"market_price": 0.0,
+				"shop_price": 650.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 0,
+				"shop_price_cent": 65000,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 34,
+					"like_num": 1
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 4,
+				"goods_type": 0,
+				"support_type": 0
+			}],
+			"collectInfo": null
+		}
+		

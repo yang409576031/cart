@@ -1,0 +1,30 @@
+<div class="y_release" >
+	<header>
+		<span class="iconfont">&#xe66d;</span>
+		<i>发布闲置</i>
+	</header>
+	<div class="y_pro_list1" spa-widget="scroll" id="home-swiper" data-scroll-id="myScroll">
+		<div>
+			<div class="y_pro_list2 y_box " ms-repeat-rl="livelist">
+				<div class="y_pro_list2t">
+					<span class="y_pro_list2l">
+						<img src="http://placehold.it/100x100">
+					</span>
+					<div class="y_pro_list2c">
+						<span>海宝二手社一拼回收</span>
+						<span>7分钟前</span>
+					</div>
+					<div class="y_pro_list2r">
+						$<span ms-text="rl.shop_price_cent">2,900</span>$<span ms-text="rl.shop_price_cent-rl.shop_price">16,000</span>
+					</div>
+				</div>
+				<ul class="y_pro_pic">
+					<li><img ms-src="rl.gallary[0].pic_url"></li>
+					<li><img ms-src="rl.gallary[1].pic_url"></li>
+					<li><img ms-src="rl.gallary[2].pic_url"></li>
+				</ul>
+				<p ms-text="rl.goods_name"></p>
+			</div>
+		</div>
+	</div>
+</div>

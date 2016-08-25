@@ -10,40 +10,31 @@ $font-heiti-medium: Heiti SC Medium, Heiti SC Light, Helvetica Neue, Helvetica, 
   font-family: yofont;
   src: url("/course-webapp/images/iconfont/iconfont-menu.woff") format("woff"), url("/course-webapp/images/iconfont/iconfont-menu.ttf") format("truetype");
 }
-
-body {
-	background-color: #fff !important;
+@font-face {
+  font-family: "iconfont";
+  src: url('/cart/images/iconfont/iconfont-index.eot?t=1471515970'); /* IE9*/
+  src: url('/cart/images/iconfont/iconfont-index.eot?t=1471515970#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('/cart/images/iconfont/iconfont-index.woff?t=1471515970') format('woff'), /* chrome, firefox */
+  url('/cart/images/iconfont/iconfont-index.ttf?t=1471515970') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('/cart/images/iconfont/iconfont-index.svg?t=1471515970#iconfont') format('svg'); /* iOS 4.1- */
 }
-
-%focus {
-  > ul {
-    @include flexbox(flex);
-    width: 100%;
-    height: 100%;
-    li {
-      &:first-child {
-        @include box-sizing(border-box);
-        width: .74rem;
-        padding: .15rem .1rem .1rem .15rem;
-        img {
-          width: 100%;
-        }
-      }
-      &:last-child {
-        @include flex(1);
-        @include flexbox(flex);
-        @include flex-direction(column);
-        @include justify-content(center);
-        h2 {
-          font-size: .14rem;
-          color: #000;
-          margin-bottom: .03rem;
-        }
-        p {
-          font-size: .12rem;
-          color: #999;
-        }
-      }
-    }
-  }
+@font-face {
+  font-family: "iconfont";
+  src: url('/cart/images/iconfont/iconfont-footer.eot?t=1471515970'); /* IE9*/
+  src: url('/cart/images/iconfont/iconfont-footer.eot?t=1471515970#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('/cart/images/iconfont/iconfont-footer.woff?t=1471515970') format('woff'), /* chrome, firefox */
+  url('/cart/images/iconfont/iconfont-footer.ttf?t=1471515970') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('/cart/images/iconfont/iconfont-footer.svg?t=1471515970#iconfont') format('svg'); /* iOS 4.1- */
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+*, ::before, ::after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
 }

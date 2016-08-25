@@ -1,0 +1,93 @@
+{
+			"createtime": 1471688015770,
+			"title": null,
+			"icon_url": null,
+			"type": 100,
+			"more": null,
+			"list": [{
+				"goods_id": "03147157596441100123",
+				"goods_name": "9成新 手提包 香奈儿",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471496071437_1471496071437_1.jpg",
+				"market_price": 0.0,
+				"shop_price": 5200.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 0,
+				"shop_price_cent": 520000,
+				"goods_stat": {
+					"share_num": 1,
+					"visit_num": 25,
+					"like_num": 0
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 3,
+				"goods_type": 0,
+				"support_type": 0
+			}, {
+				"goods_id": "03147157816976700132",
+				"goods_name": "98成新 手拿包 芬迪 芬迪手包",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471498249877_1471498249877_1.jpg",
+				"market_price": 0.0,
+				"shop_price": 2200.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 0,
+				"shop_price_cent": 220000,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 21,
+					"like_num": 2
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 5,
+				"goods_type": 0,
+				"support_type": 0
+			},{
+				"goods_id": "03147158271974900150",
+				"goods_name": "全新 Versace黑色长款拉链钱包",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471502524359_1471502524359_1.jpg",
+				"market_price": 4800.0,
+				"shop_price": 3900.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 480000,
+				"shop_price_cent": 390000,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 10,
+					"like_num": 0
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 1,
+				"goods_type": 0,
+				"support_type": 0
+			}, {
+				"goods_id": "03147158298031000157",
+				"goods_name": "98成新 路易威登 Louis Vuitton路易威登LV 18k玫瑰金女士项链",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471503295902_1471503295902_1.jpg",
+				"market_price": 15000.0,
+				"shop_price": 6500.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 1500000,
+				"shop_price_cent": 650000,
+				"goods_stat": {
+					"share_num": 1,
+					"visit_num": 33,
+					"like_num": 1
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 5,
+				"goods_type": 0,
+				"support_type": 0
+			}],
+			"collectInfo": null
+		}

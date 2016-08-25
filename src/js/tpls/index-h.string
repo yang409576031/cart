@@ -1,0 +1,97 @@
+  <header>
+  	<a>
+  		<span class="iconfont">&#xe66d;</span>
+  		<span>想要什么呢？</span>
+  	</a>
+  	<a></a>
+  </header>
+  <nav spa-widget="scroll" data-scroll-id="myScroll" id="home-swiper">
+  	<section>
+	  		<div class="swiper-container y_box" >
+					  <div class="swiper-wrapper">
+					    <div class="swiper-slide"><img src="/cart/images/index/img/5a5f1f70-6519-11e6-8d9a-7dc44ea0a5a6.png"></div>
+					    <div class="swiper-slide"><img src="/cart/images/index/img/8d335c70-62cd-11e6-b85d-5fd5587b7ca6.png"></div>
+					    <div class="swiper-slide"><img src="/cart/images/index/img/3b7d14a0-52da-11e6-abb2-c5acae773cb1.png"></div>
+					    <div class="swiper-slide"><img src="/cart/images/index/img/84338c30-6390-11e6-8d9a-7dc44ea0a5a6.png"></div>
+					  </div>
+					  <div class="swiper-pagination"></div>
+				</div>
+				<div class="y_banner">
+					<a><img src="/cart/images/index/img/37b28560-6470-11e6-8d9a-7dc44ea0a5a6.png-imageView2-2-w-640.png"></a>
+				</div>
+				<div class="y_product y_box">
+					<a><img src="/cart/images/index/img/d760a320-52e2-11e6-abb2-c5acae773cb1.jpg"></a>
+					<a><img src="/cart/images/index/img/431007e0-5e1f-11e6-9afd-e70d8ae4c623.jpg"></a>
+					<a><img src="/cart/images/index/img/4314c2d0-5e1f-11e6-9afd-e70d8ae4c623.jpg"></a>
+					<a><img src="/cart/images/index/img/98b804b0-637c-11e6-8d9a-7dc44ea0a5a6.jpg"></a>
+					<a><img src="/cart/images/index/img/ef6d08c0-5e25-11e6-9afd-e70d8ae4c623.jpg"></a>
+					<a><img src="/cart/images/index/img/d75a3a80-52e2-11e6-abb2-c5acae773cb1.jpg"></a>
+					<a><img src="/cart/images/index/img/d75cab80-52e2-11e6-abb2-c5acae773cb1.jpg"></a>
+					<a><img src="/cart/images/index/img/d75ece60-52e2-11e6-abb2-c5acae773cb1.jpg"></a>
+				</div>
+				<div class="y_banner y_box">
+					<a><img src="/cart/images/index/img/8b59c3c0-6378-11e6-8d9a-7dc44ea0a5a6.png-imageView2-2-w-640.png"></a>
+				</div>
+				<div class="y_banner y_box">
+					<a><img src="/cart/images/index/img/9a481b90-6100-11e6-a5e3-6172b2dbb808.png-imageView2-2-w-640.png"></a>
+				</div>
+				<div class="y_banner_1  y_box">
+					<div class="y_banner_2">
+						<div class="y_left">
+							<a><img src="/cart/images/index/img/9a3074e0-6100-11e6-a5e3-6172b2dbb808.png"></a>
+						</div>
+						<div class="y_right">
+							<a><img src="/cart/images/index/img/9a210b90-6100-11e6-a5e3-6172b2dbb808.png"></a>
+							<a><img src="/cart/images/index/img/9a48b7d0-6100-11e6-a5e3-6172b2dbb808.png"></a>
+						</div>
+					</div>
+					<div class="y_banner_2">
+						<div class="y_left">
+							<a><img src="/cart/images/index/img/9a53db60-6100-11e6-a5e3-6172b2dbb808.png"></a>
+						</div>
+						<div class="y_right">
+							<a><img src="/cart/images/index/img/b93ae460-6119-11e6-8e17-0163e9649bc1.png"></a>
+							<a><img src="/cart/images/index/img/9a88ce10-6100-11e6-a5e3-6172b2dbb808.png"></a>
+						</div>
+					</div>
+					<div class="y_banner_2">
+						<div class="y_left">
+							<a><img src="/cart/images/index/img/9a4eab40-6100-11e6-a5e3-6172b2dbb808.png"></a>
+						</div>
+						<div class="y_right">
+							<a><img src="/cart/images/index/img/9a4bec20-6100-11e6-a5e3-6172b2dbb808.png"></a>
+							<a><img src="/cart/images/index/img/9a7d8370-6100-11e6-a5e3-6172b2dbb808.png"></a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="y_banner y_border">
+					<a><img src="/cart/images/index/img/0ccafc80-52d5-11e6-abb2-c5acae773cb1.png-imageView2-2-w-640.png"></a>
+				</div>
+				<div class="y_banner y_box">
+					<a><img src="/cart/images/index/img/5aed6e30-62d3-11e6-8d9a-7dc44ea0a5a6.png"></a>
+				</div>
+				<div class="y_banner y_box">
+					<a><img src="/cart/images/index/img/21d382f0-5ae1-11e6-b343-d36736721beb.png-imageView2-2-w-640.png"></a>
+				</div>
+				<div class="y_banner">
+					<a><img src="/cart/images/index/img/a4608a90-58a4-11e6-94c4-75e229b99639.png-imageView2-2-w-640.png"></a>
+				</div>
+				<div class="y_banner3">
+	  			<div class="y_banner">
+						<a><img src="/cart/images/index/img/cebd6c40-5ac0-11e6-b343-d36736721beb.png-imageView2-2-w-640.png"></a>
+					</div>
+					<div class="y_banner_2">
+						<ul ms-repeat-el="livelist">
+							<li><img ms-src="el.thumb_url"></li>
+							<li ms-text="el.goods_name"></li>
+							<li ms-text="el.shop_price"></li>
+						</ul>
+						<div class="foot">
+	            <img src="/cart/images/arrow.png"/>
+	            <span>上拉加载更多...</span>
+          </div>
+					</div>
+  		</div>
+  	</section>
+  </nav>

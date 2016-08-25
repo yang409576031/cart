@@ -1,18 +1,10 @@
 <div class="m-index">
-  <header>
-  	<a>
-  		<span></span>
-  		<span>搜索</span>
-  	</a>
-  	<a></a>
-  </header>
-  <nav>
-    <ul>
-      <li>足球现场</li>
-      <li>足球生活</li>
-      <li>足球美女</li>
-    </ul>
-  </nav>
-  <section>c</section>
-  <footer>d</footer>
+	<div id="m-container"></div>
+  <footer id="y_footer">
+  	<div class="y_b1" action-type='switch' data-name="home"><b class="iconfont">&#xe605;</b><i>首页</i></div>
+  	<div action-type='switch' data-name="search"><b  class="iconfont">&#xe633;</b><i>发现</i></div>
+  	<div action-type='switch' data-name="release"><b class="iconfont">&#xe7fe;</b><i>发布闲置</i></div>
+  	<div action-type='switch' data-name="home"><b  class="iconfont">&#xe6c6;</b><i>消息</i></div>
+  	<div action-type='switch' data-name="home"><b  class="iconfont">&#xe706;</b><i>我的</i></div>
+  </footer>
 </div>

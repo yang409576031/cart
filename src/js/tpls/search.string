@@ -1,0 +1,13 @@
+<div class="y_search" >
+	<header>
+		<span class="iconfont">&#xe66d;</span>
+		<i>发现</i>
+	</header>
+	<div class="y_pro_list" spa-widget="scroll" id="home-swiper" data-scroll-id="myScroll"> 
+		<div>
+			<div class="y_box" >
+				<a ms-repeat-ml="livelist"><img ms-src="ml.list[0].image_url"></a>
+			</div>
+		</div>
+	</div>
+</div>

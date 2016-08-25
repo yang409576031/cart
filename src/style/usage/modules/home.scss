@@ -1,0 +1,183 @@
+@charset "utf-8";
+@import "../layout/yo-flex";
+@import "../element/yo-loading";
+@import "../fragment/yo-mask";
+#m-container{
+    position: relative;
+    header{
+    height:.4rem;
+    padding:.06rem .5rem .06rem .15rem;
+    background: #f7f7f7;
+    text-align: center;
+    border-radius:.04rem;
+    position: relative;
+    @include flexbox();
+    a:first-child{
+       line-height:.28rem;
+       text-align: center;
+       display: block;
+       margin:0 auto;
+       display: block;
+       width:100%;
+       color:#a1a1a1;
+       font-size:.14rem;
+       text-decoration: none;
+       background:#fff;
+       border-radius:5px;
+       padding-left:10px;
+      @include flexbox();
+        span{
+            height:100%;
+            font-size:.14rem;
+            display: block;
+        }
+        span:first-child{
+            width: .16rem;
+            height:.16rem;
+            font-size:.16rem;
+        }
+        span:last-child{
+            padding-left:5px;
+        }
+    }
+    a:last-child{
+        position: absolute;
+        right: .1rem;
+        top: .07rem;
+        width: .26rem;
+        height: .25rem;
+        background-image:url(/cart/images/common/b51d51c0-4b07-11e5-9749-f909ce07e8a1.png-imageView2-1-w-48-h-45.png);
+        background-size:.26rem .25rem;
+    }
+  }
+  .y_box:after{
+        content: "";
+        display: block;
+        width:100%;
+        height:.12rem;
+        background-image: url(/cart/images/index/img/b6aae4f0-129c-11e6-9f77-9f5112f3bd2f.png-imageView2-2-w-640.png);
+    }
+  nav {
+    
+    @include flex();
+    width: 100%;
+    height: .4rem;
+    position: relative;
+    .swiper-slide{
+        width: 100%;
+        img{
+            width:100%;
+        }
+    }
+    //给下面加一个padding-bottonm
+    
+    //加一个border-bootom
+    .y_border{
+        @include border(0 0 1px 0,#ccc,solid)
+    }
+    .y_banner{
+        width:100%;
+        a img{
+            width:100%;
+        }
+        
+    }
+    .y_product{
+        width:100%;
+        @include flexbox();
+        @include flex-wrap(wrap);
+        a{
+            display: block;
+            width: 25%;
+            img{
+                width:100%;
+            }
+        }
+    }
+    .y_banner_2{
+        @include flexbox();
+        @include flex-wrap(wrap);
+        div.y_left{
+            width:50%;
+            padding-right:.02rem;
+            img{
+                width:100%;
+            }
+        }
+        div.y_right{
+            width:50%;
+            padding-left:.02rem;
+            img{
+                width:100%;
+            }
+        }
+        ul{
+            width:50%;
+            padding:3px;
+            padding-bottom:10px;
+            li img{
+                width:100%;
+            }
+        }
+    }
+    .y_banner_3{
+        @include flexbox();
+        div.y_left{
+            width:50%;
+            padding-right:2px;
+            img{
+                width:100%;
+            }
+        }
+        div.y_right{
+            width:50%;
+            padding-left:2px;
+            img{
+                width:100%;
+            }
+        }
+    }
+  }
+}
+spa-view {
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: #eceef0 !important;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+@include yo-loading(
+    $name: b,
+    $bgcolor: #666,
+    $ico-color: #00afc7,
+    $color: #00afc7
+);
+.foot {
+    text-align: center;
+    height: .35rem;
+    line-height: .35rem;
+    display: none;
+    width:100%;
+}
+.foot img {
+    width: .16rem;
+    height: .16rem;
+    display: inline-block;
+    /*transform: rotate(0deg);*/
+    /*-webkit-transform: rotate(0deg);*/
+    transition: transform 150ms;
+    -webkit-transition: transform 150ms;
+}
+.down {
+    transform: rotate(180deg) !important;
+    -webkit-transform: rotate(180deg) !important;
+}

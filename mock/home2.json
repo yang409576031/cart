@@ -1,0 +1,93 @@
+{
+			"createtime": 1471688015770,
+			"title": null,
+			"icon_url": null,
+			"type": 100,
+			"more": null,
+			"list": [{
+				"goods_id": "03147158309758000159",
+				"goods_name": "98成新 手拿包 路易威登",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471503534735_1471503534735_1.jpg",
+				"market_price": 8500.0,
+				"shop_price": 4300.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 850000,
+				"shop_price_cent": 430000,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 10,
+					"like_num": 0
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 5,
+				"goods_type": 0,
+				"support_type": 0
+			}, {
+				"goods_id": "03147158531613000173",
+				"goods_name": "98成新 手提包 纪梵希",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471504889656_1471504889656_1.jpg",
+				"market_price": 0.0,
+				"shop_price": 3200.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 0,
+				"shop_price_cent": 320000,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 18,
+					"like_num": 0
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 5,
+				"goods_type": 0,
+				"support_type": 0
+			},{
+				"goods_id": "03147157222509500083",
+				"goods_name": "9成新 钱包 菲拉格慕 菲拉格慕 经典蝴蝶结设计 长款钱",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471444655487_1471444655487_1.jpg",
+				"market_price": 4000.0,
+				"shop_price": 1480.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 400000,
+				"shop_price_cent": 148000,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 22,
+					"like_num": 1
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 3,
+				"goods_type": 0,
+				"support_type": 0
+			}, {
+				"goods_id": "03147157307839700094",
+				"goods_name": "9成新 二手正品Dior迪奥经典款 布款黑金五格戴妃包 多用女包",
+				"thumb_url": "http://static1.aidingmao.com/java/image/jpeg/01471451453133_1471451453133_1.jpg",
+				"market_price": 13800.0,
+				"shop_price": 2699.0,
+				"diaohuo_price": 0.0,
+				"market_price_cent": 1380000,
+				"shop_price_cent": 269900,
+				"goods_stat": {
+					"share_num": 0,
+					"visit_num": 49,
+					"like_num": 3
+				},
+				"status": 1,
+				"is_limit_activity": 0,
+				"original_price": 0.0,
+				"original_price_cent": 0,
+				"grade": 3,
+				"goods_type": 0,
+				"support_type": 0
+			}],
+			"collectInfo": null
+		}
