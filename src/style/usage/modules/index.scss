@@ -3,31 +3,31 @@
   height: 100%;
   @include flexbox();
   @include flex-direction(column);
-   
-  header{
-    height:.28rem;
-    padding:.06rem .5rem .06rem .15rem;
-    background: #f7f7f7;
-    text-align: center;
-    border-radius:.04rem;
-    position: relative;
+  > * {
+    width: 100%;
+  }
+  header {
+    height: .44rem;
     @include flexbox();
-    a:first-child{
-       line-height:.28rem;
-       text-align: center;
-       display: block;
-       width:100%;
-       color:#a1a1a1;
-       font-size:.14rem;
-        text-decoration: none;
+    span:first-child,
+    span:last-child {
+      width: .53rem;
+      background-size: .2rem .2rem;
+      background-position: center center;
+      background-repeat: no-repeat;
     }
-    a:last-child{
-        position: absolute;
-        right: .1rem;
-        top: .07rem;
-        width: .26rem;
-        height: .25rem;
-        background:red;
+    span:first-child {
+      background-image: url('/beibei/images/apt.png');
+    }
+    span:last-child {
+      background-image: url('/beibei/images/amo.png');
+    }
+    span:nth-child(2) {
+      @include flex();
+      background-image: url('/beibei/images/axm.png');
+      background-size: .42rem .22rem;
+      background-position: center center;
+      background-repeat: no-repeat;
     }
   }
   nav {
@@ -38,10 +38,9 @@
     @include flex();
     width: 100%;
     background: yellow;
-    width: 100%;
   }
   footer {
     height: .53rem;
-    background: blue;
+    background: blue
   }
 }

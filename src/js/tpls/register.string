@@ -1,0 +1,51 @@
+<!--<div class="H_register">
+	<div class="H_regBox">
+		<label class="tel">
+			<input type="text" placeholder="请输入手机号"/>
+		</label>
+		<label class="code">
+			<input type="text" placeholder="图片验证码"/>
+		</label>
+		<span class="imgCode">
+			<img src="../../../images/iconfont/imgcode.jpg"/>
+		</span>
+	</div>
+	<div class="btn">
+		<button>注册</button>
+	</div>
+	<div class="agree">
+		<i class="iconfont">✔</i>
+		<span>已阅读并同意</span>
+		<a href="javaScript:;">服务协议</a>
+	</div>
+</div>
+-->
+
+
+
+<div class="H_login">
+	<div class="loginHead">
+		<i class="iconfont">&#xe616;</i>
+		<p>注册爱丁猫</p>
+		<i class="iconfont"></i>
+	</div>
+	<div class="loginBox">
+		<div class="input">
+			<input type="text" placeholder="请输入11位手机号"/>
+			<input type="text" placeholder="请输入密码:6-16位数字、字母或符号"/>
+		</div>
+		<div class="agree">
+			<i class="iconfont">✔</i>
+			<span>已阅读并同意</span>
+			<a href="javaScript:;">服务协议</a>
+		</div>
+		<div class="btn">
+			<button>注册</button>
+		</div>
+		<div class="footer">
+			<span>已有爱丁猫账号？直接登录</span>
+			<p></p>
+			<span>联系客服</span>
+		</div>
+	</div>
+</div>	
