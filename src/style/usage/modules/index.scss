@@ -8,6 +8,7 @@ html,body{
   height: 100%;
   @include flexbox();
   @include flex-direction(column);
+<<<<<<< HEAD
   #m-container{
       @include flex();
       width:100%;
@@ -41,5 +42,46 @@ html,body{
     div.y_b1{
       color:#e2bb66;
      }
+=======
+  > * {
+    width: 100%;
+  }
+  header {
+    height: .44rem;
+    @include flexbox();
+    span:first-child,
+    span:last-child {
+      width: .53rem;
+      background-size: .2rem .2rem;
+      background-position: center center;
+      background-repeat: no-repeat;
+    }
+    span:first-child {
+      background-image: url('/beibei/images/apt.png');
+    }
+    span:last-child {
+      background-image: url('/beibei/images/amo.png');
+    }
+    span:nth-child(2) {
+      @include flex();
+      background-image: url('/beibei/images/axm.png');
+      background-size: .42rem .22rem;
+      background-position: center center;
+      background-repeat: no-repeat;
+    }
+  }
+  nav {
+    height: .4rem;
+    background: green;
+  }
+  section {
+    @include flex();
+    width: 100%;
+    background: yellow;
+  }
+  footer {
+    height: .53rem;
+    background: blue
+>>>>>>> origin/handong
   }
 }

@@ -1,4 +1,5 @@
 <div class="m-index">
+<<<<<<< HEAD
 	<div id="m-container"></div>
   <footer id="y_footer">
   	<div class="y_b1" action-type='switch' data-name="home"><b class="iconfont">&#xe605;</b><i>首页</i></div>
@@ -7,4 +8,23 @@
   	<div action-type='switch' data-name="home"><b  class="iconfont">&#xe6c6;</b><i>消息</i></div>
   	<div action-type='switch' data-name="home"><b  class="iconfont">&#xe706;</b><i>我的</i></div>
   </footer>
+=======
+  <header>
+    <i class="yo-ico">&#xe745;</i>
+    <ul>
+      <li class="active">热点</li>
+      <li>关注</li>
+    </ul>
+    <i class="yo-ico">&#xe684;</i>
+  </header>
+  <nav>
+    <ul>
+      <li>足球现场</li>
+      <li>足球生活</li>
+      <li>足球美女</li>
+    </ul>
+  </nav>
+  <section>c</section>
+  <footer>d</footer>
+>>>>>>> origin/handong
 </div>

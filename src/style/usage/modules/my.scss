@@ -1,0 +1,123 @@
+.H_my{
+	width: 100%;
+	height: 100%;
+	background: #f6f3f3;
+	
+	.my_header{
+		width: 100%;
+		height: 2rem;
+		//background: url(../../../../images/my/my.jpg) no-repeat;
+		img{
+		    width: 100%;
+		    height: 2rem;
+		    position: absolute;
+		}
+	}
+	
+	.head{
+		width: 100%;
+		height: 0.44rem;
+		position: relative;
+		z-index: 10005;
+		@include flexbox();
+		i{
+			display: block;
+			width: 0.44rem;
+			height: 100%;		
+			text-align: center;
+			line-height: 0.54rem;
+			font-size: 0.25rem;
+			color: #fff;
+		}
+		p{
+			@include flex()
+		}
+	}
+	.user{
+		width: 100%;
+		height: 1.56rem;
+		line-height: 1.56rem;
+		._user{
+			width: 1.3rem;
+			height: 1.5rem;
+			text-align: center;
+			border-radius: 50%;
+			img{
+				width: 0.8rem;
+				height: 0.8rem;
+				border-radius: 50%;
+			}
+		}
+		.users{
+			width: 1.7rem;
+			height: 100%;
+			position: absolute;
+			top: 0;right: 0;
+			color: #fff;
+			padding: 0 0 0 0.2rem;
+			@include flexbox();
+			@include flex-direction(column);
+			span{
+				width: 100%;
+				height: 0.2rem;
+				display: block;
+			}
+		}
+	}
+	.wallet{
+		width: 100%;
+		height: 0.7rem;
+		margin-top: 10px;
+		background: #fff;
+		color: #333;
+		@include flexbox();
+		li{
+			list-style: none;
+			width: 25%;
+			height: 100%;
+			text-align: center;
+			i{
+				font-size: 0.3rem;
+			}
+			p{
+				width: 100%;
+				height: 0.1rem;
+			}
+		}
+	}
+	.shop{
+		width: 100%;
+		height: 0.4rem;
+		background: #fff;
+		margin-top: 10px;
+		@include flexbox();
+		p{
+			width: 0.9rem;
+			height: 100%;
+			text-align: center;
+			line-height: 0.4rem;
+		}
+		span{
+			@include flex()
+		}
+		i{
+			width: 0.4rem;
+			height: 100%;
+			line-height: 0.4rem;
+			text-align: center;
+		}
+	}
+	.top{
+		margin-top: 1px;
+	}
+	.service{
+		margin-top: 10px;
+		.shop{
+			background: #fff;
+			span{
+				line-height: 0.4rem;
+			}
+		}
+		
+	}
+}

@@ -1,0 +1,101 @@
+<div class="H_my" spa-widget="scroll">
+	<div>
+		<div class="my_header">
+			<img src="../../../images/my/my.jpg"/>
+			<div class="head">
+				<i class="iconfont">&#xe638;</i>
+				<p></p>
+				<i class="iconfont">&#xe6c7;</i>
+			</div>
+			<div class="user">
+				<div class="_user">
+					<img src="../../../images/my/my1.jpg"/>
+				</div>
+				<div class="users">
+					<span>六月繁华开</span>
+					<span>粉丝 0 关注 0 </span>
+				</div>
+			</div>
+		</div>
+		<div class="wallet">
+			<li>
+				<i class="iconfont">&#xe68b;</i>
+				<p>钱包</p>
+			</li>
+			<li>
+				<i class="iconfont">&#xe607;</i>
+				<p>优惠券</p>
+			</li>
+			<li>
+				<i class="iconfont">&#xe616;</i>
+				<p>心动</p>
+			</li>
+			<li>
+				<i class="iconfont">&#xe601;</i>
+				<p>顾问</p>
+			</li>
+		</div>
+		<div class="shop">
+			<p>我的店铺</p>
+			<span></span>
+			<i class="iconfont">&#xe70f;</i>	
+		</div>
+		<div class="shop">
+			<p>我买到的</p>
+			<span></span>
+			<i class="iconfont">&#xe70f;</i>	
+		</div>
+		<div class="wallet top">
+			<li>
+				<i class="iconfont">&#xe615;</i>
+				<p>待发货</p>
+			</li>
+			<li>
+				<i class="iconfont">&#xe649;</i>
+				<p>待收货</p>
+			</li>
+			<li>
+				<i class="iconfont">&#xe614;</i>
+				<p>已成交</p>
+			</li>
+			<li>
+				<i class="iconfont">&#xe619;</i>
+				<p>已关闭</p>
+			</li>
+		</div>
+		<div class="shop">
+			<p>我的寄卖</p>
+			<span></span>
+			<i class="iconfont">&#xe70f;</i>	
+		</div>
+		
+		<div class="service">
+			<li class="shop">
+				<i class="iconfont">&#xe88a;</i>
+				<span>客服电话</span>
+				<i class="iconfont">&#xe70f;</i>	
+			</li>
+			<li class="shop">
+				<i class="iconfont">&#xe60d;</i>
+				<span>在线客服</span>
+				<i class="iconfont">&#xe70f;</i>	
+			</li>
+			<li class="shop">
+				<i class="iconfont">&#xe603;</i>
+				<span>帮助中心</span>
+				<i class="iconfont">&#xe70f;</i>	
+			</li>
+			<li class="shop">
+				<i class="iconfont">&#xe655;</i>
+				<span>意见反馈</span>
+				<i class="iconfont">&#xe70f;</i>	
+			</li>
+			<li class="shop">
+				<i class="iconfont">&#xe6a1;</i>
+				<span>分享APP</span>
+				<i class="iconfont">&#xe70f;</i>	
+			</li>
+		</div>
+	</div>
+</div>
+
