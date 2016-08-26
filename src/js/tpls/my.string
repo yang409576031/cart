@@ -1,15 +1,15 @@
 <div class="H_my" spa-widget="scroll">
 	<div>
 		<div class="my_header">
-			<img src="../../../images/my/my.jpg"/>
+			<img src="/cart/images/my/my.jpg"/>
 			<div class="head">
-				<i class="iconfont">&#xe638;</i>
+				<i class="iconfont" action-type="goto.setup">&#xe638;</i>
 				<p></p>
 				<i class="iconfont">&#xe6c7;</i>
 			</div>
 			<div class="user">
 				<div class="_user">
-					<img src="../../../images/my/my1.jpg"/>
+					<img src="/cart/images/my/my1.jpg"/>
 				</div>
 				<div class="users">
 					<span>六月繁华开</span>
@@ -19,7 +19,7 @@
 		</div>
 		<div class="wallet">
 			<li>
-				<i class="iconfont">&#xe68b;</i>
+				<i class="iconfont" >&#xe68b;</i>
 				<p>钱包</p>
 			</li>
 			<li>

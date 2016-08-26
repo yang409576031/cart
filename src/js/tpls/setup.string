@@ -1,60 +1,63 @@
-<div class="setup" >
-	<div class="head">
-		<i class="iconfont">&#xe63a;</i>
-		<p>设置</p>
-		<i class="iconfont"></i>
-	</div>
-	<div class="aa">
-		<p>管理收货地址</p>
-		<span></span>
-		<i class="iconfont">&#xe70f;</i>	
-	</div>
-	<div class="aa">
-		<p>管理退货地址</p>
-		<span></span>
-		<i class="iconfont">&#xe70f;</i>	
-	</div>
-	<div class="aa" style="margin-top: 10px;">
-		<p>接受新消息通知</p>
-		<span></span>
-		<i class="iconfont">&#xe70f;</i>	
-	</div>
-	<div class="aa">
-		<p>分享给好友</p>
-		<span></span>
-		<i class="iconfont">&#xe70f;</i>	
-	</div>
-	<div class="aa">
-		<p>意见反馈</p>
-		<span></span>
-		<i class="iconfont">&#xe70f;</i>	
-	</div>
-	<div class="aa">
-		<p>清除缓存</p>
-		<span></span>
-		<i class="iconfont">&#xe70f;</i>	
-	</div>
-	<div class="aa">
-		<p>关于爱丁猫</p>
-		<span></span>
-		<i class="iconfont">&#xe70f;</i>	
-	</div>
-	<div class="aa" style="margin-top: 20px;">
-		<p>帮助中心</p>
-		<span></span>
-		<i class="iconfont">&#xe70f;</i>	
-	</div>
-	<div class="aa">
-		<p>检查更新</p>
-		<span></span>
-		<i class="iconfont">&#xe70f;</i>	
-	</div>
-	<div class="aa">
-		<p>联系客服(工作日)</p>
-		<span></span>
-		<i class="iconfont">&#xe70f;</i>	
-	</div>
-	<div class="btn">
-		<button>退出登录</button>
+<div class="setup" spa-widget="scroll">
+	<div>
+		<div class="head">
+			<i class="iconfont" action-type="back">&#xe63a;</i>
+			<p>设置</p>
+			<i class="iconfont"></i>
+		</div>
+			
+			<div class="aa">
+				<p>管理收货地址</p>
+				<span></span>
+				<i class="iconfont">&#xe70f;</i>	
+			</div>
+			<div class="aa">
+				<p>管理退货地址</p>
+				<span></span>
+				<i class="iconfont">&#xe70f;</i>	
+			</div>
+			<div class="aa" style="margin-top: 10px;">
+				<p>接受新消息通知</p>
+				<span></span>
+				<i class="iconfont">&#xe70f;</i>	
+			</div>
+			<div class="aa">
+				<p>分享给好友</p>
+				<span></span>
+				<i class="iconfont">&#xe70f;</i>	
+			</div>
+			<div class="aa">
+				<p>意见反馈</p>
+				<span></span>
+				<i class="iconfont">&#xe70f;</i>	
+			</div>
+			<div class="aa">
+				<p>清除缓存</p>
+				<span></span>
+				<i class="iconfont">&#xe70f;</i>	
+			</div>
+			<div class="aa">
+				<p>关于爱丁猫</p>
+				<span></span>
+				<i class="iconfont">&#xe70f;</i>	
+			</div>
+			<div class="aa" style="margin-top: 20px;">
+				<p>帮助中心</p>
+				<span></span>
+				<i class="iconfont">&#xe70f;</i>	
+			</div>
+			<div class="aa">
+				<p>检查更新</p>
+				<span></span>
+				<i class="iconfont">&#xe70f;</i>	
+			</div>
+			<div class="aa">
+				<p>联系客服</p>
+				<span></span>
+				<i class="iconfont">&#xe70f;</i>	
+			</div>
+			<div class="btn">
+				<button>退出登录</button>
+			</div>
 	</div>
 </div>

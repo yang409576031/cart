@@ -25,7 +25,7 @@
 
 <div class="H_login">
 	<div class="loginHead">
-		<i class="iconfont">&#xe616;</i>
+		<i class="iconfont" action-type="back-logo">&#xe616;</i>
 		<p>注册爱丁猫</p>
 		<i class="iconfont"></i>
 	</div>
